@@ -9,11 +9,12 @@
 - 🌱 I'm currently learning **Object-Oriented Programming, JavaScript & Backend Development**
 - 💼 I'm **actively looking for a Software Developer role** — open to full-time opportunities
 - 📫 Reach me on **LinkedIn**: [in/chethan29](https://www.linkedin.com/in/chethan29)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1Z0o7LeZ9YgsVjphXNDsDlGBAzq31TzMp/view?usp=drive_link)
 - 💻 Practicing DSA on **LeetCode**: [My LeetCode Profile](https://leetcode.com/u/jM4IdV9dm4/)
 - 📊 Data science practice on **Kaggle**: [My Kaggle Profile](https://www.kaggle.com/)
 - 🧪 Research ID: [ORCID](https://orcid.org/0009-0002-7694-9960)
 - ⚡ Fun fact: I learn something new every single day!
-- 📫 Reach out to me at chethandb.cse@gmail.com
+- 📫 Reach out to me at **chethandb.cse@gmail.com**
 
 ---
 
@@ -69,7 +70,7 @@
 
 <!-- <p align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHETHANDB123&layout=compact&theme=radical"/> -->
-</p>
+<!-- </p> -->
 
 ---
 
