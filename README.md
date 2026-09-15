@@ -13,6 +13,7 @@
 - 📊 Data science practice on **Kaggle**: [My Kaggle Profile](https://www.kaggle.com/)
 - 🧪 Research ID: [ORCID](https://orcid.org/0009-0002-7694-9960)
 - ⚡ Fun fact: I learn something new every single day!
+- 📫 Reach out to me at chethandb.cse@gmail.com
 
 ---
 
